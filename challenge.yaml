@@ -1,0 +1,29 @@
+name: "Hidden In Panoramic Sight"
+author: "Alin"
+category: Miscellaneous
+description: |
+    Our intelligence suggests that a rogue, physical clone of Jester has somehow infiltrated and rooted itself within Interac's office building, hiding in a panoramic sight.
+
+    Can you investigate their office, expose this hidden AI, and retrieve any information or data that can lead to its shutdown?
+
+    You've arrived at their reception desk. Take a look at your surroundings.
+    
+value: 200
+
+type: standard
+
+flags:
+  - type: "static"
+    content: "ATHACKCTF{QHERE_IS_QALDO}"
+    data: "case_insensitive"
+
+tags:
+    - beginner
+    - sponsored
+    
+files:
+    - offline-artifacts/panoramic_display.html
+
+state: visible
+
+version: "0.1"
