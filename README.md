@@ -1,20 +1,46 @@
-# Chall - Hidden in Panoramic Sight
+# @HACK 2025: Hidden In Panoramic Sight
 
-> This Capture the Flag (CTF) challenge involves embedding a QR code into a flattened (i.e. equirectangular projection) spherical panorama image (similar to Google Street View) and tasking participants to locate and reconstruct the hidden QR code.
+> Authored by [Alin](https://github.com/serbancaia).
 
-## Type
+- **Category**: `Miscellaneous`
+- **Value**: `200 points`
+- **Tags**: `beginner` `sponsored`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> Our intelligence suggests that a rogue, physical clone of Jester has somehow infiltrated and rooted itself within Interac's office building, hiding in a panoramic sight.
+> 
+> Can you investigate their office, expose this hidden AI, and retrieve any information or data that can lead to its shutdown?
+> 
+> You've arrived at their reception desk. Take a look at your surroundings.
+> 
 
-## Designer
+## Files
+- **[Download: panoramic_display.html](https://github.com/athack-ctf/chall2025-hidden-in-panoramic-sight/raw/refs/heads/main/offline-artifacts/panoramic_display.html)**
 
-- Serban Alin Caia
+## Reveal Flag
 
-## Description
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-Signal processing, 3D image processing, and photoshop are heavily involved in this challenge. Participants must figure out clever ways to extract the hidden QR code from a 360-degree environment.
+Did you **REALLY** try solving this challenge?
 
-## Categories
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-- `stegano`
+Flag: `ATHACKCTF{QHERE_IS_QALDO}`
+
+</details>
+</details>
+
+
+---
+
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
+
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
